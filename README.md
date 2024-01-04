@@ -46,6 +46,4 @@ List of ship countries from the start of 1997 to the end of 1998 where the ship 
 - PostgreSQL: The database system used to store and manage the Northwind database.
 - DBeaver: Database management tool for executing queries and viewing results.
 
----
 
-_Note: This document provides an overview of the "Northwind Traders – Natural SELECTion" project. Detailed SQL queries for each task are available in the respective `.sql` files._
